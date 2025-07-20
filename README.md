@@ -1,1 +1,2 @@
 # TODO-LIST
+This is a simple, text-based to-do app built in Python for the command line. Users can input tasks, view their list of pending tasks, remove tasks once completed, and exit the application when finished. The app uses basic user input prompts and stores the tasks in a list or file—no graphics or advanced interface required. It’s ideal for practicing core programming skills like loops, conditionals, and list management, focusing on usability and clear task flow for everyday productivity
